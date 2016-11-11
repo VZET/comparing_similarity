@@ -6,6 +6,7 @@
 # Configuration:
 # There must be in present directory: directory 'MOSS' and 'Static Analysis'.
 # In 'MOSS': There are moss.pl, this(moss_auto.py)
+#		Download moss.pl here: http://moss.stanford.edu/general/scripts/mossnet
 # In 'Static Analysis': There are input files' category folder
 
 # Notice: You need BeautifulSoup.
